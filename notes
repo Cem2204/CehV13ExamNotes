@@ -1,0 +1,37 @@
+C++ exploit with Kali Linux:  **g++ exploit.cpp -o notepad.exe**
+
+IPSEC does not trigger alert when used to VPN. IPSec is the most secure protocol that works with VPNs.
+
+Port 515 is used as an LPR/LPD port for most printers and older print servers. Port 631 is used for IPP for most modern printers and CUPS-based print servers. Port 9100 is used as a RAW port for most printers and is also known as the direct-IP port.
+
+Metasploit can trigger buffer overflows in SCADA systems.
+
+An MX record is used for outgoing (SMTP) and incoming (POP3/IMAP) traffic.
+
+| **Kayıt Tipi** | **Anahtar Kelime / Kullanım** |
+| --- | --- |
+| **MX** | **E-posta**, SMTP, Mail Server |
+| **A** | Host -> **IP (v4)** |
+| **AAAA** | Host -> **IPv6** |
+| **PTR** | IP -> Host (**Reverse Lookup** - Genellikle tarama tespitinde görülür) |
+| **TXT** | **SPF, DKIM** (E-posta güvenliği, Spam önleme) |
+| **SRV** | Servis konumu (Active Directory, VoIP vb.) |
+| **NS** | Name Server (DNS sunucusunun kendisi) |
+
+LDAP uses port 389 by default. 
+
+Former employee is Insider Threat.
+
+Service and version identification are often performed by conducting a banner grab or by checking responses for services to known fingerprints for those services.
+
+**To commit industrial espionage** is not a valid reason to conduct reverse engineering.
+
+Vulnerability reports should include both the physical hosts and the virtual hosts on the target network. A common mistake of new cybersecurity analysts is to include physical hosts, thereby missing many network assets.
+
+Hardening is usually the process of securing a system by reducing its surface of vulnerability.
+
+MAC flooding is a technique employed to compromise the security of switched network devices. The attack forcing legitimate MAC addresses out of the table of contents in the switch and forcing a unicast flooding behavior, potentially sending sensitive information to portions of the network where it is not normally intended to go. Essentially, since the switch table of contents is flooding with bad information, the switch could fail open and begin to act like a hub, broadcasting all the frames out of every port. This would allow the attacker to sniff all network packets since he is connected to one of those switch ports.
+
+The only truly unbreakable encryption is one that uses a one-time use pad.
+
+The Diffie-Hellman (DH) is used to exchange cryptographic keys over a public channel securely and was one of the first public-key protocols (Asymmetric).
