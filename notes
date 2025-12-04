@@ -9,7 +9,6 @@ Metasploit can trigger buffer overflows in SCADA systems.
 An MX record is used for outgoing (SMTP) and incoming (POP3/IMAP) traffic.
 
 | **Kayıt Tipi** | **Anahtar Kelime / Kullanım** |
-| --- | --- |
 | **MX** | **E-posta**, SMTP, Mail Server |
 | **A** | Host -> **IP (v4)** |
 | **AAAA** | Host -> **IPv6** |
@@ -18,7 +17,7 @@ An MX record is used for outgoing (SMTP) and incoming (POP3/IMAP) traffic.
 | **SRV** | Servis konumu (Active Directory, VoIP vb.) |
 | **NS** | Name Server (DNS sunucusunun kendisi) |
 
-LDAP uses port 389 by default. 
+LDAP uses port 389 by default. 3389 is RDP. SLP is port 427.
 
 Former employee is Insider Threat.
 
@@ -37,3 +36,31 @@ The only truly unbreakable encryption is one that uses a one-time use pad.
 The Diffie-Hellman (DH) is used to exchange cryptographic keys over a public channel securely and was one of the first public-key protocols (Asymmetric).
 
 Smart cards, PIV, and CAC devices are used as an identity and access management control. These devices contain a digital certificate embedded within the smart card (PIV/CAC) presented to the system when it is inserted into the smart card reader. 
+
+Injecting parameters into a connection string using semicolons as a separator is type of technique for exploit chaining often implement.
+
+Application-aware firewall would be the most effective technology to detect and block this type of traffic.
+
+The PII of employees should not be given to a penetration tester as this could violate laws and regulations regarding maintaining employee data confidentiality and privacy. 
+
+Penetration tester has exploited the FTP server from outside the LAN, they will need to set up a route statement in meterpreter.
+
+WEP is the least secure Wireless Security Protocol.
+
+Segmentation is the best method to reduce the risk to an embedded ICS system from a network-based compromise.
+
+Passive reconnaissance combines publicly available data from various sources about an organization and does not use active scanning or data gathering methods.
+
+WPS enabled wireless networks has a weaknes for brute force occurs within 11.000(or+) combinations.
+
+The net user command allows system administrators to manage user accounts on Windows PCs.
+
+Wireless access points can utilize MAC filtering to ensure only known network interface cards are allowed to connect to the network.
+
+Blowfish is a legacy symmetric encryption algorithm that is not PKI X.509 compliant due to its 64-bit block size vulnerability, unlike the industry-standard AES.
+
+Non-repudiation occurs when a sender cannot claim they didn’t send an email when they did.
+
+Class B network is /16 because Subnet Mask is 255.255.0.0
+
+A Jumpbox is a hardened intermediary server used to segment and control remote administrative access to internal network resources, acting as a single audit point.
