@@ -17,7 +17,7 @@ An MX record is used for outgoing (SMTP) and incoming (POP3/IMAP) traffic.
 | **SRV** | Servis konumu (Active Directory, VoIP vb.) |
 | **NS** | Name Server (DNS sunucusunun kendisi) |
 
-LDAP uses port 389 by default. 3389 is RDP. SLP is port 427.
+LDAP uses port 389 by default enrypted ones uses port 636. 3389 is RDP. SLP is port 427.
 
 Former employee is Insider Threat.
 
@@ -64,3 +64,30 @@ Non-repudiation occurs when a sender cannot claim they didn’t send an email wh
 Class B network is /16 because Subnet Mask is 255.255.0.0
 
 A Jumpbox is a hardened intermediary server used to segment and control remote administrative access to internal network resources, acting as a single audit point.
+
+ECC provides equivalent security to RSA with significantly smaller key sizes, making it the ideal asymmetric algorithm for resource-constrained devices like smartphones.
+
+A karma attack is a variant of the evil twin attack. 
+
+IoT devices focus convenience more than security.
+
+A misconfigured DNS Zone Transfer allows an attacker to replicate the entire DNS database, revealing critical network topology and internal IP addresses.
+
+Deauthentication attacks are used in the service of an evil twin, replay, cracking, denial of service, and other attacks.
+
+RSA is asymmetric algorithm.
+
+The net use command will list network shares that the workstation is using.
+
+A PTR record acts as a pointer for Reverse DNS lookups, mapping an IP address back to a hostname, unlike an A record which maps a hostname to an IP.
+
+ScoutSuite is an open-source multi-cloud security auditing tool that assesses the configuration posture of environments like AWS, Azure, and GCP via their APIs.
+
+LM hashes are limited to 14 characters, convert all input to uppercase, and use the DES algorithm, making them highly vulnerable to brute-force and rainbow table attacks.
+
+MD5,128-bit,32 Karakter,Kırıldı
+NTLM,128-bit,32 Karakter,"MD4 tabanlıdır, Kırıldı"
+SHA-1,160-bit,40 Karakter,Kırıldı (Deprecated)
+SHA-256 (SHA-2 Ailesi),256-bit,64 Karakter,Güvenli
+
+MAC Spoofing is the technique of changing a network interface's factory-assigned MAC address to bypass access control lists or conceal the attacker's identity.
