@@ -35,3 +35,5 @@ MAC flooding is a technique employed to compromise the security of switched netw
 The only truly unbreakable encryption is one that uses a one-time use pad.
 
 The Diffie-Hellman (DH) is used to exchange cryptographic keys over a public channel securely and was one of the first public-key protocols (Asymmetric).
+
+Smart cards, PIV, and CAC devices are used as an identity and access management control. These devices contain a digital certificate embedded within the smart card (PIV/CAC) presented to the system when it is inserted into the smart card reader. 
